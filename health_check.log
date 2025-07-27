@@ -1,0 +1,48 @@
+2025-07-27 21:24:29,856 - __main__ - INFO - 🔍 Начинаем проверку здоровья бота...
+2025-07-27 21:24:30,344 - __main__ - INFO - ✅ Telegram API доступен
+2025-07-27 21:24:30,833 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getMe "HTTP/1.1 200 OK"
+2025-07-27 21:24:30,834 - __main__ - INFO - ✅ Бот активен: @SK_english_bot (SK_english-bot)
+2025-07-27 21:24:30,992 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getWebhookInfo "HTTP/1.1 200 OK"
+2025-07-27 21:24:30,993 - __main__ - INFO - 📡 Webhook статус: {
+  "url": "",
+  "has_custom_certificate": false,
+  "pending_update_count": 8,
+  "last_error_date": null,
+  "last_error_message": null,
+  "max_connections": null,
+  "allowed_updates": []
+}
+2025-07-27 21:24:30,993 - __main__ - INFO - 📁 Статус сохранен в bot_status.json
+2025-07-27 21:24:30,993 - __main__ - INFO - ✅ Все проверки пройдены успешно!
+2025-07-27 21:24:47,022 - __main__ - INFO - 🔍 Начинаем проверку здоровья бота...
+2025-07-27 21:24:47,509 - __main__ - INFO - ✅ Telegram API доступен
+2025-07-27 21:24:47,996 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getMe "HTTP/1.1 200 OK"
+2025-07-27 21:24:47,997 - __main__ - INFO - ✅ Бот активен: @SK_english_bot (SK_english-bot)
+2025-07-27 21:24:48,156 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getWebhookInfo "HTTP/1.1 200 OK"
+2025-07-27 21:24:48,156 - __main__ - INFO - 📡 Webhook статус: {
+  "url": "",
+  "has_custom_certificate": false,
+  "pending_update_count": 8,
+  "last_error_date": null,
+  "last_error_message": null,
+  "max_connections": null,
+  "allowed_updates": []
+}
+2025-07-27 21:24:48,157 - __main__ - INFO - 📁 Статус сохранен в bot_status.json
+2025-07-27 21:24:48,157 - __main__ - INFO - ✅ Все проверки пройдены успешно!
+2025-07-27 21:25:18,398 - __main__ - INFO - 🔍 Начинаем проверку здоровья бота...
+2025-07-27 21:25:18,889 - __main__ - INFO - ✅ Telegram API доступен
+2025-07-27 21:25:19,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getMe "HTTP/1.1 200 OK"
+2025-07-27 21:25:19,382 - __main__ - INFO - ✅ Бот активен: @SK_english_bot (SK_english-bot)
+2025-07-27 21:25:19,540 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getWebhookInfo "HTTP/1.1 200 OK"
+2025-07-27 21:25:19,541 - __main__ - INFO - 📡 Webhook статус: {
+  "url": "",
+  "has_custom_certificate": false,
+  "pending_update_count": 8,
+  "last_error_date": null,
+  "last_error_message": null,
+  "max_connections": null,
+  "allowed_updates": []
+}
+2025-07-27 21:25:19,541 - __main__ - INFO - 📁 Статус сохранен в bot_status.json
+2025-07-27 21:25:19,541 - __main__ - INFO - ✅ Все проверки пройдены успешно!

@@ -1,1 +1,35 @@
 2025-07-27 21:22:56,771 - __main__ - ERROR - Пожалуйста, установите BOT_TOKEN в переменных окружения
+2025-07-27 21:24:37,008 - __main__ - INFO - Загружен словарь: 4 слов
+2025-07-27 21:24:37,008 - __main__ - INFO - Запуск бота (попытка 1)
+2025-07-27 21:24:37,018 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:24:37,018 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:24:42,025 - __main__ - INFO - Запуск бота (попытка 2)
+2025-07-27 21:24:42,034 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:24:42,034 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:24:47,040 - __main__ - INFO - Запуск бота (попытка 3)
+2025-07-27 21:24:47,049 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:24:47,049 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:24:52,056 - __main__ - INFO - Запуск бота (попытка 4)
+2025-07-27 21:24:52,068 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:24:52,068 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:24:57,075 - __main__ - INFO - Запуск бота (попытка 5)
+2025-07-27 21:24:57,087 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:24:57,087 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:25:02,094 - __main__ - INFO - Запуск бота (попытка 6)
+2025-07-27 21:25:02,103 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:25:02,103 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:25:07,110 - __main__ - INFO - Запуск бота (попытка 7)
+2025-07-27 21:25:07,119 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:25:07,119 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:25:12,126 - __main__ - INFO - Запуск бота (попытка 8)
+2025-07-27 21:25:12,135 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:25:12,135 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:25:17,142 - __main__ - INFO - Запуск бота (попытка 9)
+2025-07-27 21:25:17,152 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:25:17,152 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:25:22,159 - __main__ - INFO - Запуск бота (попытка 10)
+2025-07-27 21:25:22,168 - __main__ - ERROR - Критическая ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+2025-07-27 21:25:22,168 - __main__ - INFO - Перезапуск через 5 секунд...
+2025-07-27 21:25:22,168 - __main__ - ERROR - Достигнуто максимальное количество перезапусков
+2025-07-27 21:25:22,169 - __main__ - INFO - Данные пользователей сохранены
+2025-07-27 21:25:22,169 - __main__ - INFO - Работа бота завершена
