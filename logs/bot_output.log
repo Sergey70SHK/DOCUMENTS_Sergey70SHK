@@ -1,0 +1,18 @@
+2025-07-27 21:42:15,733 - __main__ - INFO - 🚀 SK English Bot is starting...
+2025-07-27 21:42:15,734 - __main__ - INFO - 📚 Translation and Grammar Checker ready!
+2025-07-27 21:42:16,223 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getMe "HTTP/1.1 200 OK"
+2025-07-27 21:42:16,381 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/deleteWebhook "HTTP/1.1 200 OK"
+2025-07-27 21:42:16,382 - telegram.ext.Application - INFO - Application started
+2025-07-27 21:42:26,871 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getUpdates "HTTP/1.1 200 OK"
+2025-07-27 21:42:32,236 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getUpdates "HTTP/1.1 200 OK"
+2025-07-27 21:42:32,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-27 21:42:32,901 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/editMessageText "HTTP/1.1 200 OK"
+2025-07-27 21:42:42,401 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getUpdates "HTTP/1.1 200 OK"
+2025-07-27 21:42:42,562 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getUpdates "HTTP/1.1 200 OK"
+2025-07-27 21:42:43,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/sendMessage "HTTP/1.1 200 OK"
+2025-07-27 21:42:44,783 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getUpdates "HTTP/1.1 200 OK"
+2025-07-27 21:42:44,948 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-07-27 21:42:45,118 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/editMessageText "HTTP/1.1 200 OK"
+2025-07-27 21:42:45,301 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/editMessageText "HTTP/1.1 200 OK"
+2025-07-27 21:42:54,945 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getUpdates "HTTP/1.1 200 OK"
+2025-07-27 21:43:05,107 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8064275622:AAFmN3I5IKDfNxmzkWpjcYKJkVhQGhQ4geI/getUpdates "HTTP/1.1 200 OK"
