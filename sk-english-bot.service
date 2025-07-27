@@ -1,0 +1,32 @@
+[Unit]
+Description=SK English Bot - Telegram Bot for English Learning
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/workspace
+Environment=BOT_TOKEN=YOUR_BOT_TOKEN_HERE
+ExecStart=/usr/bin/python3 /workspace/sk_english_bot.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=sk-english-bot
+
+# Настройки для предотвращения слишком частых перезапусков
+StartLimitInterval=60
+StartLimitBurst=3
+
+# Максимальное время работы процесса
+RuntimeMaxSec=86400
+
+# Отправляем SIGTERM при остановке, затем SIGKILL
+KillMode=mixed
+KillSignal=SIGTERM
+TimeoutStopSec=30
+
+[Install]
+WantedBy=multi-user.target
