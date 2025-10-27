@@ -1,0 +1,26 @@
+{
+  "hello": {
+    "translation": "привет",
+    "definition": "a greeting used when meeting someone",
+    "example": "Hello, how are you today?",
+    "level": "beginner"
+  },
+  "beautiful": {
+    "translation": "красивый",
+    "definition": "pleasing the senses or mind aesthetically",
+    "example": "The sunset was beautiful tonight.",
+    "level": "beginner"
+  },
+  "adventure": {
+    "translation": "приключение",
+    "definition": "an unusual and exciting experience or activity",
+    "example": "Their trip to the mountains was a great adventure.",
+    "level": "intermediate"
+  },
+  "magnificent": {
+    "translation": "великолепный",
+    "definition": "extremely beautiful, elaborate, or impressive",
+    "example": "The cathedral was a magnificent sight.",
+    "level": "advanced"
+  }
+}

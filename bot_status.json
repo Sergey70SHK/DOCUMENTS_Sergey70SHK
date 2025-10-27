@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-07-27 21:25:18.398211",
+  "checks": {
+    "telegram_api": true,
+    "bot_info": true,
+    "webhook": {
+      "url": "",
+      "has_custom_certificate": false,
+      "pending_update_count": 8,
+      "last_error_date": null,
+      "last_error_message": null,
+      "max_connections": null,
+      "allowed_updates": []
+    }
+  },
+  "overall_status": "healthy",
+  "duration": 1.14318
+}

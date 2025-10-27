@@ -1,0 +1,27 @@
+2025-07-27 21:29:35,526 - __main__ - ERROR - Неожиданная ошибка: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "/workspace/sk_english_bot.py", line 547, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "/usr/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/usr/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/workspace/sk_english_bot.py", line 542, in main
+    bot = SKEnglishBot(token)
+  File "/workspace/sk_english_bot.py", line 35, in __init__
+    self.application = Application.builder().token(token).build()
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/workspace/bot_env/lib/python3.13/site-packages/telegram/ext/_applicationbuilder.py", line 312, in build
+    updater = Updater(bot=bot, update_queue=update_queue)
+  File "/workspace/bot_env/lib/python3.13/site-packages/telegram/ext/_updater.py", line 128, in __init__
+    self.__polling_cleanup_cb: Optional[Callable[[], Coroutine[Any, Any, None]]] = None
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Updater' object has no attribute '_Updater__polling_cleanup_cb' and no __dict__ for setting new attributes
+[0;31m[2025-07-27 21:29:45] ERROR: Бот завершился сразу после запуска[0m
+[0;31m[2025-07-27 21:29:50] ERROR: Достигнуто максимальное количество перезапусков (10). Останавливаем.[0m
